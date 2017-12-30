@@ -1,0 +1,3 @@
+[submodule "content/themes/odin"]
+	path = content/themes/odin
+	url = https://github.com/juyeong/odin
